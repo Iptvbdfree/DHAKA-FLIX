@@ -41,3 +41,8 @@ x̌xxxx̌xxxxx
 #EXTINF:-1 tvg-id="SweetHomeAlabama2002" tvg-name="Sweet Home Alabama (2002)" tvg-logo="https://image.tmdb.org/t/p/original/eVGMHZccvIf7yafdCWjFxjpzNlT.jpg" group-title="English Movies", Sweet Home Alabama (2002)
 http://172.16.50.14/DHAKA-FLIX-14/English%20Movies%20%281080p%29/%282002%29%201080p/Sweet%20Home%20Alabama%20%282002%29%201080p/Sweet.Home.Alabama.2002.1080p.BluRay.H264.AAC-RARBG.mp4
 #EXTVLCOPT:sub-file=https://raw.githubusercontent.com/Iptvbdfree/Subtitle-/refs/heads/main/Sweet.Home.Alabama.2002.720p.BluRay.x264-AiHD_eng.srt
+
+
+
+#EXTINF:-1 tvg-id="MovieID" tvg-name="Movie Name" tvg-logo="https://image.tmdb.org/t/p/original/eVGMHZccvIf7yafdCWjFxjpzNlT.jpg" group-title="GroupName", Movie Name
+https://drive.google.com/uc?export=download&id=1PhaIujKOVEooTyRQzZrc3-IUKgnFBQv6
