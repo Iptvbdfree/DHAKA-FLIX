@@ -1,8 +1,9 @@
+
+
+
+
 #EXTM3U
 
-
-#EXTINF:-1 tvg-id="our-beloved-summer-s01e01" tvg-name="Our Beloved Summer" tvg-logo="https://image.tmdb.org/t/p/original/xzEr0WfpJjWtYvTGxw5N5jcAGW8.jpg" group-title="Our Beloved Summer", Our Beloved Summer S01E01 - I Know What You Did Last Summer (2021)
-http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Our%20Beloved%20Summer%20%28TV%20Series%202021%E2%80%932022%29%20720p%20%5BDual%20Audio%5D/Season%201/Our%20Beloved%20Summer%20S01E01%20%20720p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BEnglish%202.0%2BKorean%202.0%5D%20-MzVerse.mkv
 #EXTINF:-1 tvg-id="our-beloved-summer-s01e02" tvg-name="Our Beloved Summer" tvg-logo="https://image.tmdb.org/t/p/original/kxrZ60mpKL9EedOEEV7nAaebg8P.jpg" group-title="Our Beloved Summer", Our Beloved Summer S01E02 - 1792 Days of Summer (2021)
 http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Our%20Beloved%20Summer%20%28TV%20Series%202021%E2%80%932022%29%20720p%20%5BDual%20Audio%5D/Season%201/Our%20Beloved%20Summer%20S01E02%20%20720p%20NF%20WEBRip%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BEnglish%202.0%2BKorean%202.0%5D%20-MzVerse.mkv
 #EXTINF:-1 tvg-id="our-beloved-summer-s01e03" tvg-name="Our Beloved Summer" tvg-logo="https://image.tmdb.org/t/p/original/4DGEmMg2BFmu4YqwGWvTcE353Ta.jpg" group-title="Our Beloved Summer", Our Beloved Summer S01E03 - 10 Things I Hate About You (2021)
@@ -376,4 +377,45 @@ http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A5%20%20A%2
 
 #EXTINF:-1 tvg-id="BreakingBad2009S02E06" tvg-name="Breaking Bad (2009) S02E06 - Peekaboo" tvg-logo="https://image.tmdb.org/t/p/original/3ZMOKFDA3fPLlIgFnrZLYLXGoiD.jpg" group-title="Breaking Bad", Breaking Bad (2009) S02E06 - Peekaboo
 http://172.16.50.12/DHAKA-FLIX-12/TV-WEB-Series/TV%20Series%20%E2%99%A5%20%20A%20%20%E2%80%94%20%20L/Breaking%20Bad%20%28TV%20Series%202008%E2%80%932013%29%201080p%20%5BDual%20Audio%5D/Season%202/Breaking%20Bad%20S02E06%20%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-MsMod.mkv
+
+
+
+
+
+
+
+
+xxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxx 
+
+#EXTINF:-1 tvg-id="DeathsGame-2023-S01E01" tvg-name="Death's Game (2023)-S01E01-Death" tvg-logo="https://image.tmdb.org/t/p/original/fS4i7HHi1NNksTdAT8Vrvz9O161.jpg" group-title="Death's Game", Death's Game (2023)-S01E01-Death
+http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Death%27s%20Game%20%28TV%20Series%202023%E2%80%93%20%29%201080p/Season%201%20%28Korean%20Language%29/Deaths.Game.S01E01.KOR.1080p.AMZN.WEB-DL.x265.HEVC.10bit.AAC.5.1.MSubs-Pahe.mkv
+
+#EXTINF:-1 tvg-id="DeathsGame-2023-S01E02" tvg-name="Death's Game (2023)-S01E02-The Reason You're Going to Hell" tvg-logo="https://image.tmdb.org/t/p/original/5QhuQfDhKZNnMC65V5KjC17FbJ7.jpg" group-title="Death's Game", Death's Game (2023)-S01E02-The Reason You're Going to Hell
+http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Death%27s%20Game%20%28TV%20Series%202023%E2%80%93%20%29%201080p/Season%201%20%28Korean%20Language%29/Deaths.Game.S01E02.KOR.1080p.AMZN.WEB-DL.x265.HEVC.10bit.AAC.5.1.MSubs-Pahe.mkv
+#EXTINF:-1 tvg-id="DeathsGame-2023-S01E03" tvg-name="Death's Game (2023)-S01E03-Reincarnation Test" tvg-logo="https://image.tmdb.org/t/p/original/fS4i7HHi1NNksTdAT8Vrvz9O161.jpg" group-title="Death's Game", Death's Game (2023)-S01E03-Reincarnation Test
+http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Death%27s%20Game%20%28TV%20Series%202023%E2%80%93%20%29%201080p/Season%201%20%28Korean%20Language%29/Deaths.Game.S01E03.KOR.1080p.AMZN.WEB-DL.x265.HEVC.10bit.AAC.5.1.MSubs-Pahe.mkv
+
+#EXTINF:-1 tvg-id="DeathsGame-2023-S01E04" tvg-name="Death's Game (2023)-S01E04-A Shocking Discovery" tvg-logo="https://image.tmdb.org/t/p/original/5QhuQfDhKZNnMC65V5KjC17FbJ7.jpg" group-title="Death's Game", Death's Game (2023)-S01E04-A Shocking Discovery
+http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Death%27s%20Game%20%28TV%20Series%202023%E2%80%93%20%29%201080p/Season%201%20%28Korean%20Language%29/Deaths.Game.S01E04.KOR.1080p.AMZN.WEB-DL.x265.HEVC.10bit.AAC.5.1.MSubs-Pahe.mkv
+
+#EXTINF:-1 tvg-id="DeathsGame-2023-S01E05" tvg-name="Death's Game (2023)-S01E05-Facing Death Again" tvg-logo="https://image.tmdb.org/t/p/original/fS4i7HHi1NNksTdAT8Vrvz9O161.jpg" group-title="Death's Game", Death's Game (2023)-S01E05-Facing Death Again
+http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Death%27s%20Game%20%28TV%20Series%202023%E2%80%93%20%29%201080p/Season%201%20%28Korean%20Language%29/Deaths.Game.S01E05.KOR.1080p.AMZN.WEB-DL.x265.HEVC.10bit.AAC.5.1.MSubs-Pahe.mkv
+
+#EXTINF:-1 tvg-id="DeathsGame-2023-S01E06" tvg-name="Death's Game (2023)-S01E06-The Pain of Choices" tvg-logo="https://image.tmdb.org/t/p/original/5QhuQfDhKZNnMC65V5KjC17FbJ7.jpg" group-title="Death's Game", Death's Game (2023)-S01E06-The Pain of Choices
+http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Death%27s%20Game%20%28TV%20Series%202023%E2%80%93%20%29%201080p/Season%201%20%28Korean%20Language%29/Deaths.Game.S01E06.KOR.1080p.AMZN.WEB-DL.x265.HEVC.10bit.AAC.5.1.MSubs-Pahe.mkv
+
+#EXTINF:-1 tvg-id="DeathsGame-2023-S01E07" tvg-name="Death's Game (2023)-S01E07-Breaking the Loop" tvg-logo="https://image.tmdb.org/t/p/original/fS4i7HHi1NNksTdAT8Vrvz9O161.jpg" group-title="Death's Game", Death's Game (2023)-S01E07-Breaking the Loop
+http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Death%27s%20Game%20%28TV%20Series%202023%E2%80%93%20%29%201080p/Season%201%20%28Korean%20Language%29/Deaths.Game.S01E07.KOR.1080p.AMZN.WEB-DL.x265.HEVC.10bit.AAC.5.1.MSubs-Pahe.mkv
+
+#EXTINF:-1 tvg-id="DeathsGame-2023-S01E08" tvg-name="Death's Game (2023)-S01E08-Final Chance" tvg-logo="https://image.tmdb.org/t/p/original/5QhuQfDhKZNnMC65V5KjC17FbJ7.jpg" group-title="Death's Game", Death's Game (2023)-S01E08-Final Chance
+http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Death%27s%20Game%20%28TV%20Series%202023%E2%80%93%20%29%201080p/Season%201%20%28Korean%20Language%29/Deaths.Game.S01E08.KOR.1080p.AMZN.WEB-DL.x265.HEVC.10bit.AAC.5.1.MSubs-Pahe.mkv
+
+
+xxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxx 
+
+
+
+
+
+
 
