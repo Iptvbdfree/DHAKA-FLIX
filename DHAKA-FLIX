@@ -1,7 +1,6 @@
 #EXTM3U
-  
-#EXTINF:-1 tvg-name="Crash Course in Romance (Rating: 8.2)", Crash Course in Romance (2023) - S01E10 - Episode 10
-http://172.16.50.14/DHAKA-FLIX-14/KOREAN%20TV%20%26%20WEB%20Series/Crash%20Course%20in%20Romance%20%28TV%20Series%202023%29%20720p/Season%201%20%28Korean%20Language%29/Crash.Course.in.Romance.S01E10.KOR.720p.NF.WEBRip.x265.HEVC.10bit.MSubs-MsMod.mkv 
+#EXTINF:-1 tvg-id="" tvg-name="Love Reset (2023)" tvg-logo="http://172.16.50.7/DHAKA-FLIX-7/Foreign%20Language%20Movies/Korean%20Language/Love%20Reset%20%282023%29%20720p%20WEBRip/a_AL_.jpg" group-title="MOVIES", Love Reset (2023)
+http://172.16.50.7/DHAKA-FLIX-7/Foreign%20Language%20Movies/Korean%20Language/Love%20Reset%20%282023%29%20720p%20WEBRip/Love.Reset.2023.Korean.720p.DSNP-WEB.x264.MSubs-MsMod.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Love Reset (2023)" tvg-logo="http://172.16.50.7/DHAKA-FLIX-7/Foreign%20Language%20Movies/Korean%20Language/Love%20Reset%20%282023%29%20720p%20WEBRip/a_AL_.jpg" group-title="MOVIES", Love Reset (2023)
 http://172.16.50.7/DHAKA-FLIX-7/Foreign%20Language%20Movies/Korean%20Language/Love%20Reset%20%282023%29%20720p%20WEBRip/Love.Reset.2023.Korean.720p.DSNP-WEB.x264.MSubs-MsMod.mkv
 
